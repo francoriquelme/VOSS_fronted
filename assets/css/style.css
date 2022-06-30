@@ -1,0 +1,49 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+}
+
+    .collapse {
+        font-family: 'Cabin', sans-serif;
+    }
+
+    .carousel-indicators {
+        top: 180px;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%
+    }
+
+.orange {
+    background-color: #e97d0a;
+}
+
+.btn {
+    color: #373a3C;
+}
+
+.color {
+    background-color: #373A3C;
+    color: #FFFFFF;
+}
+
+.rojo {
+
+    background: #dc3545;
+}
+
+h1 {
+
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+}
+
+.centrar {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #373A3C;
+}
